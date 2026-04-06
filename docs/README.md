@@ -31,7 +31,7 @@ OctoAcme follows an **iterative, customer-focused delivery model** with clearly 
 | Role | Responsibilities |
 |---|---|
 | **Project Manager (PM)** | Coordinates delivery, schedules, risks, and communications. |
-| **Product Manager (PdM)** | Defines outcomes, prioritises the backlog, and measures success. |
+| **Product Manager (PdM)** | Defines outcomes, prioritizes the backlog, and measures success. |
 | **Developers** | Implement features; collaborate on design, estimation, and quality. |
 | **QA / Testing** | Validate quality and acceptance criteria. |
 | **Stakeholders** | Provide inputs and approvals. |
@@ -42,7 +42,7 @@ OctoAcme follows an **iterative, customer-focused delivery model** with clearly 
 
 ## Communication Cadence
 
-- **Daily** — Twice-weekly (or as agreed) standups for the delivery team.
+- **Standups** — Twice-weekly (or as agreed) standups for the delivery team.
 - **Weekly** — PM + PdM sync to review progress, risks, and priorities.
 - **Monthly** — Stakeholder updates on progress and outcomes.
 - **Ad-hoc** — Escalations and unblocking discussions as needed.
@@ -57,7 +57,7 @@ OctoAcme follows an **iterative, customer-focused delivery model** with clearly 
 |---|---|
 | Project Charter / One-pager | Captures problem statement, goals, and stakeholders. |
 | Roadmap & Release Plan | Communicates high-level delivery timeline. |
-| Sprint / Iteration Backlog | Tracks prioritised work items for the current cycle. |
+| Sprint / Iteration Backlog | Tracks prioritized work items for the current cycle. |
 | Acceptance Criteria & Definition of Done | Defines what "done" looks like for each feature. |
 | Risk Register | Logs identified risks, owners, and mitigations. |
 | Retrospective Notes & Action Items | Records learnings and improvement commitments. |
